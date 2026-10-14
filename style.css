@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  background: #111318;
+  color: #e6e8ee;
+  font: 16px/1.6 system-ui, sans-serif;
+}
+
+main {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 48px 20px;
+}
+
+h1 {
+  color: #ff3d6e;
+}
+
+a {
+  color: #ff3d6e;
+}
+
+nav {
+  margin-top: 40px;
+  padding-top: 16px;
+  border-top: 1px solid #2a2e38;
+}
